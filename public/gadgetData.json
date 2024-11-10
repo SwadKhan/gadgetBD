@@ -1,0 +1,198 @@
+[
+    {
+      "product_id": "P001",
+      "product_title": "Apple iPhone 15 Pro Max",
+      "product_image": "https://i.ibb.co/yFP7tYG/androidphones-2048px-pixel7pro-front-446678696.jpg",
+      "category": "Smartphones",
+      "price": 1299,
+      "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+      "specification": [
+        "6.7-inch Super Retina XDR display",
+        "A17 Bionic chip",
+        "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+        "LiDAR Scanner",
+        "Up to 2TB storage"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P002",
+      "product_title": "Samsung Galaxy S23 Ultra",
+      "product_image": "https://i.ibb.co/m9vt8Zw/smartphones-1759445398.jpg",
+      "category": "Smartphones",
+      "price": 1199,
+      "description": "Premium smartphone with powerful performance and camera.",
+      "specification": [
+        "6.8-inch QHD+ display",
+        "Snapdragon 8 Gen 2",
+        "200MP camera",
+        "5000mAh battery"
+      ],
+      "availability": false,
+      "rating": 4.7
+    },
+    {
+      "product_id": "P003",
+      "product_title": "Dell XPS 13",
+      "product_image": "https://i.ibb.co/K0Hqz9p/81l-WUzhy-Bl-L-1181341650.jpg",
+      "category": "Laptops",
+      "price": 999,
+      "description": "Ultra-thin laptop with powerful performance.",
+      "specification": [
+        "13.4-inch FHD display",
+        "Intel Core i7",
+        "16GB RAM",
+        "512GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "P004",
+      "product_title": "Apple MacBook Pro 16",
+      "product_image": "https://i.ibb.co/3mHQkQJ/gn-G2-Z6p-K7-CTBJmw4p-RUy8i-2657854328.jpg",
+      "category": "Laptops",
+      "price": 2499,
+      "description": "High-performance laptop for professionals.",
+      "specification": [
+        "16-inch Retina display",
+        "Apple M1 Pro chip",
+        "16GB RAM",
+        "1TB SSD"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "P005",
+      "product_title": "HP Spectre x360",
+      "product_image": "https://i.ibb.co/3mHQkQJ/gn-G2-Z6p-K7-CTBJmw4p-RUy8i-2657854328.jpg",
+      "category": "Laptops",
+      "price": 1399,
+      "description": "Convertible laptop with stunning display and performance.",
+      "specification": [
+        "13.5-inch OLED display",
+        "Intel Core i7",
+        "16GB RAM",
+        "512GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "P006",
+      "product_title": "Apple Watch Series 8",
+      "product_image": "https://i.ibb.co/t8N7fkd/apple-mj3t2ll-a-watch-sport-smartwatch-42mm-1187199.jpg",
+      "category": "Smartwatches",
+      "price": 399,
+      "description": "Stay connected and track your health with the latest Apple Watch.",
+      "specification": [
+        "Always-on Retina display",
+        "Advanced health monitoring",
+        "Water resistant up to 50m",
+        "18-hour battery life"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "P007",
+      "product_title": "Fitbit Versa 4",
+      "product_image": "https://i.ibb.co/xg6PpMf/10-best-Smart-Watches-Under-50-3-3817919946.jpg",
+      "category": "Smartwatches",
+      "price": 229,
+      "description": "Fitness smartwatch with built-in GPS and heart rate tracking.",
+      "specification": [
+        "AMOLED display",
+        "24/7 heart rate tracking",
+        "Sleep tracking",
+        "Built-in GPS"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": "P009",
+      "product_title": "Anker Nano II 65W Charger",
+      "product_image": "https://i.ibb.co.com/QcTQFQf/51f2ue2w5h-L-AC-SL1000-2328082855.jpg",
+      "category": "Accessories",
+      "price": 59,
+      "description": "Compact fast charger with USB-C compatibility.",
+      "specification": [
+        "65W output",
+        "Compatible with laptops, tablets, and phones",
+        "GaN technology"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "P010",
+      "product_title": "MAXOAK 50000mAh Power Bank",
+      "product_image": "https://i.ibb.co/vYRjqmm/maxoak-power-bank-50000-cropped-3453145125.png",
+      "category": "Accessories",
+      "price": 159,
+      "description": "High-capacity power bank for multiple devices.",
+      "specification": [
+        "50000mAh capacity",
+        "Six output ports",
+        "Durable design",
+        "Compatible with laptops, smartphones, and tablets"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+        {
+          "product_id": "P011",
+          "product_title": "Lenovo ThinkPad X1 Carbon",
+          "product_image": "https://i.ibb.co.com/2FpMqh0/images.jpg",
+          "category": "Laptops",
+          "price": 1299,
+          "description": "Lightweight and durable laptop with high performance.",
+          "specification": [
+            "14-inch FHD display",
+            "Intel Core i7",
+            "16GB RAM",
+            "1TB SSD",
+            "Fingerprint reader"
+          ],
+          "availability": true,
+          "rating": 4.7
+        },
+        {
+          "product_id": "P012",
+          "product_title": "ASUS ZenBook 14",
+          "product_image": "https://i.ibb.co.com/2FpMqh0/images.jpg",
+          "category": "Laptops",
+          "price": 899,
+          "description": "Compact and powerful laptop with NanoEdge display.",
+          "specification": [
+            "14-inch FHD NanoEdge display",
+            "AMD Ryzen 7",
+            "8GB RAM",
+            "512GB SSD",
+            "Backlit keyboard"
+          ],
+          "availability": true,
+          "rating": 4.6
+        },
+        {
+          "product_id": "P013",
+          "product_title": "Microsoft Surface Laptop 5",
+          "product_image": "https://i.ibb.co.com/2FpMqh0/images.jpg",
+          "category": "Laptops",
+          "price": 1599,
+          "description": "Versatile and sleek laptop with touchscreen.",
+          "specification": [
+            "13.5-inch PixelSense touchscreen",
+            "Intel Core i7",
+            "16GB RAM",
+            "512GB SSD",
+            "Windows Hello face authentication"
+          ],
+          "availability": true,
+          "rating": 4.8
+        } 
+  ]
+  
