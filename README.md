@@ -1,8 +1,6 @@
 GitHub Link-> https://github.com/programming-hero-web-course2/b10a8-gadget-heaven-SwadKhan
 
-LiveLink->gadgetshopbd.netlify.app
-
-
+LiveLink-> gadgetshopbd.netlify.app
 
 React Fundamental Concepts Used:
 1.Component-based Architecture: Components like Navbar, Statistic, Home, GadgetDetails, etc., are used to structure the UI.
